@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スローモーションラブ",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T18:09:50.884197Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スローモーションラブ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_スローモーションラブ_サンボマスター.txt"
+    }
+  ]
+}
